@@ -1,0 +1,9 @@
+F:\CSharpProjects\MouseOneTouch\MouseOneTouch\bin\Debug\MouseOneTouch.exe.config
+F:\CSharpProjects\MouseOneTouch\MouseOneTouch\bin\Debug\MouseOneTouch.exe
+F:\CSharpProjects\MouseOneTouch\MouseOneTouch\bin\Debug\MouseOneTouch.pdb
+F:\CSharpProjects\MouseOneTouch\MouseOneTouch\obj\Debug\MouseOneTouch.csprojResolveAssemblyReference.cache
+F:\CSharpProjects\MouseOneTouch\MouseOneTouch\obj\Debug\MouseOneTouch.Form1.resources
+F:\CSharpProjects\MouseOneTouch\MouseOneTouch\obj\Debug\MouseOneTouch.Properties.Resources.resources
+F:\CSharpProjects\MouseOneTouch\MouseOneTouch\obj\Debug\MouseOneTouch.csproj.GenerateResource.Cache
+F:\CSharpProjects\MouseOneTouch\MouseOneTouch\obj\Debug\MouseOneTouch.exe
+F:\CSharpProjects\MouseOneTouch\MouseOneTouch\obj\Debug\MouseOneTouch.pdb
